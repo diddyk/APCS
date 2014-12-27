@@ -1,0 +1,9 @@
+static -> run only once
+void -> return type
+
+3 loops:
+	-for
+	-while
+	-do-while
+	
+constructors have no return type (dont use "void")

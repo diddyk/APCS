@@ -1,0 +1,14 @@
+Hi Mr. DeRuiter!
+		I do have a couple of opinions regarding your class. This, as stated, is a Computer Science class. We definitely receive
+	enough of the computer aspect of that, but relatively little exposure to the science part of it. A suggestion would be
+	to go over new concepts in class, with the AP book. For example, students could be required to purchase an AP prep book,
+	whether it be the Litvin or Barron's (I prefer the latter), and as we go over new concepts, such as ArrayLists, we could
+	go over the corresponding sections in the AP book and do the prep problems. This would give us more practice with the
+	types of problems we would see on the test in this class and the AP test in the future. As seen from the feedback
+	relayed by your students, the free response portion of the AP test is easy and time-plentiful, partly because of the
+	immense practice we receive in this class. However, the multiple choice section of the test is relatively more tricky,
+	likely because of a lack of practice with running through code. 
+		One thing I really liked about this class was how we went over the free response questions from old AP tests. The Litvin
+	book did not adequately represent the nature and difficulty level of the AP test, but the questions we did in class did.
+	The environment of the class is able to fuel collaboration on work days and institute a comfortable surrounding for work.
+	

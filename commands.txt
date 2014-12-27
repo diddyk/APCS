@@ -1,0 +1,22 @@
+Make a directory
+	mkdir [directory name] 
+Move into directory
+	cd [directory name]
+Move out directory
+	cd ..
+Remove a file
+	rm [file name]
+List contents
+	ls
+Space usage
+	df
+Timed
+	time java ______
+
+
+GRIDWORLD:
+cd GridWorldCode
+cd projects - cd framework 
+cd firstProject
+javac BugRunner.java
+java BugRunner

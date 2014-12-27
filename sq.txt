@@ -1,0 +1,37 @@
+0  public class Obama extends President 
+3  {
+3  public static void testClassMethod() {
+8  System.out.println("The class method in Obama.");
+3  }
+5  public void testInstanceMethod() {
+7  System.out.println("The instance method in Obama.");
+3  }
+0  
+3  public static void main(String[] args) {
+0  
+0  	 System.out.println ( "\n\n\n" );
+7  Obama pres = new Obama();
+8  pres.testClassMethod();
+9  pres.testInstanceMethod();
+0  
+6  System.out.println ( "\n\n\n" );
+8  President headhoncho = pres;
+8  headhoncho.testClassMethod();
+8  headhoncho.testInstanceMethod();
+0  
+6  System.out.println ( "\n\n\n" );
+5  President apres = new President();
+8  apres.testClassMethod();
+8  apres.testInstanceMethod();
+3  System.out.println ( "\n\n\n" );
+3  }
+0  }
+0  
+0  class President {
+4  public static void testClassMethod() {
+8  System.out.println("The class method in President.");
+5  }
+4  public void testInstanceMethod() {
+8  System.out.println("The instance method in President.");
+4  }
+0  }

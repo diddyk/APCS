@@ -1,0 +1,27 @@
+3
+Homework      15.00
+In-Class      10.00
+Tests         75.00
+
+9
+1     Homework    Area_between_curves          4.00
+2     Homework    Volume_by_cross_sections     4.00
+3     Tests       Area_Exam                  100.00
+4     In-Class    Volume_by_washers            4.00
+5     Homework    Volume_by_shells             4.00
+6     Tests       Volume_Exam                100.00
+7     Homework    Review_homework              4.00
+8     In-Class    Volume_practice              4.00
+9     Tests       Final_Exam                 200.00
+
+10
+1     Katy        Perry            4.00   3.00  86.00   4.00   4.00  76.00   3.00   4.00   190.00
+2     Sal         Khan             4.00   4.00  93.00   4.00   4.00  98.00   4.00   4.00   197.00
+3     Mark        Zuckerberg       4.00   4.00  89.00   4.00   4.00  92.00   4.00   3.00   188.00
+4     Justin      Bieber           4.00   3.00  87.00   4.00   3.00  93.00   4.00   3.00   182.00
+5     Emma        Watson           4.00   3.00  91.00   3.00   4.00  84.00   4.00   4.00   186.00
+6     LeBron      James            3.00   4.00  71.00   4.00   4.00  88.00   3.00   3.00   178.00
+7     Leo         Messi            4.00   4.00  95.00   4.00   4.00  79.00   3.00   4.00   193.00
+8     Taylor      Swift            4.00   3.00  90.00   4.00   3.00  97.00   4.00   2.00   183.00
+9     Miley       Cyrus            4.00   4.00  80.00   4.00   4.00  72.00   4.00   4.00   184.00
+10    Selena      Gomez            4.00   4.00  86.00   4.00   4.00  87.00   4.00   4.00   179.00

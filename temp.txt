@@ -1,0 +1,26 @@
+3
+Labs          40.00
+Tests         40.00
+Final         20.00
+
+8
+1     Labs        FirstProgram.java            5.00
+2     Labs        Lemonade.java                5.00
+3     Tests       First_Exam                 100.00
+4     Labs        Parse.java                  10.00
+5     Labs        Reading_Quiz_Exceptions     10.00
+6     Tests       Second_Exam                100.00
+7     Labs        Results.java                10.00
+8     Final       Final_Exam                 100.00
+
+10
+1     Katy        Perry            4.00   3.00  86.00   9.00   8.00  76.00   7.00  90.00
+2     Sal         Khan             5.00   4.00  93.00   9.00  10.00  98.00   9.00  97.00
+3     Mark        Zuckerberg       4.00   5.00  89.00   9.00   8.00  92.00  10.00  88.00
+4     Justin      Bieber           5.00   3.00  87.00   8.00   9.00  93.00   8.00  82.00
+5     Emma        Watson           5.00   5.00  91.00   8.00   9.00  84.00   9.00  86.00
+6     LeBron      James            3.00   4.00  71.00   6.00   7.00  88.00   8.00  78.00
+7     Leo         Messi            4.00   5.00  95.00   9.00  10.00  79.00   9.00  93.00
+8     Taylor      Swift            5.00   5.00  90.00   8.00   8.00  97.00   9.00  83.00
+9     Miley       Cyrus            4.00   4.00  80.00   9.00   7.00  72.00  10.00  84.00
+10    Selena      Gomez            5.00   4.00  86.00   8.00   9.00  87.00   9.00  79.00
